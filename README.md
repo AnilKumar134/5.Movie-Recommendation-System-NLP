@@ -73,3 +73,12 @@ The Matrix
 ## 🙌 Acknowledgements
 
 - [Kaggle - TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
+---
+
+## 📬 Contact
+
+**Anil Kumar**  
+MIS Executive | Aspiring Data Analyst | • Python • SQL • Power BI • Excel • Machine Learning  
+📧 [ak26458624@gmail.com](mailto:ak26458624@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/anil-kumar-554561225/)
